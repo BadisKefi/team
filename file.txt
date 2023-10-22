@@ -1,4 +1,9 @@
 f
 Feature 1 modification
 Feature 2 modification
+<<<<<<< HEAD
 Feature 5 commit
+=======
+Feature 4 commit
+>>>>>>> feature4
+Hey this is the feature 4 modification!
